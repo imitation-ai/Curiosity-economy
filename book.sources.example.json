@@ -1,0 +1,11 @@
+{
+  "title": "Your book title",
+  "author": "Your author name",
+  "sources": [
+    { "title": "Cover", "source": "/absolute/path/cover.pdf", "kind": "pdf" },
+    { "title": "Preface", "source": "https://drive.google.com/file/d/FILE_ID/view", "kind": "pdf" },
+    { "title": "Chapter one", "source": "https://docs.google.com/document/d/DOCUMENT_ID/edit", "kind": "google-doc" },
+    { "title": "Chapter two", "source": "/absolute/path/chapter-two.pdf", "kind": "pdf" },
+    { "title": "Chapter three", "source": "/absolute/path/chapter-three.pdf", "kind": "pdf" }
+  ]
+}

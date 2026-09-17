@@ -1,0 +1,42 @@
+{
+  "title": "Embracing the Curiosity Economy",
+  "author": "David Fearne",
+  "subtitle": "How human judgment, experience, and curiosity become your greatest assets in the age of AI.",
+  "sources": [
+    {
+      "title": "Front cover",
+      "source": "https://drive.google.com/file/d/1cWMHchnCnbyskkRDjHrp3kHvVzUBfBlr/view",
+      "kind": "pdf",
+      "cachePath": ".source-cache/cover.pdf"
+    },
+    {
+      "title": "Preface · Written with AI, Born from Curiosity",
+      "source": "https://docs.google.com/document/d/1Mp5--CQQ3rk3TDhEuFXa92b2bzT8AhV8f2TyFyL-KL0/edit",
+      "kind": "google-doc",
+      "cachePath": ".source-cache/preface.pdf",
+      "docxCachePath": ".source-cache/preface.docx"
+    },
+    {
+      "title": "1 · The CV That Time Forgot",
+      "source": "https://docs.google.com/document/d/1L1CMZp32N1ic0s1L4GRbdywTHWd6Jpr58mw0gQmWIN4/edit",
+      "kind": "google-doc",
+      "cachePath": ".source-cache/chapter-1.pdf",
+      "docxCachePath": ".source-cache/chapter-1.docx"
+    },
+    {
+      "title": "2 · The Threshold Has Been Crossed",
+      "source": "https://docs.google.com/document/d/10zGyO6FxaPlFTPqLcxVFzypSJdwkCwOtugTLhj_7Z9M/edit",
+      "kind": "google-doc",
+      "cachePath": ".source-cache/chapter-2.pdf",
+      "docxCachePath": ".source-cache/chapter-2.docx"
+    },
+    {
+      "title": "3 · Where Does the Human Go?",
+      "source": "https://docs.google.com/document/d/1rkNzyqepagw7v1O65s48-Zd7NZDUJXEQw_N_8Jov41E/edit",
+      "kind": "google-doc",
+      "cachePath": ".source-cache/chapter-3.pdf",
+      "docxCachePath": ".source-cache/chapter-3.docx"
+    }
+  ],
+  "format": "book"
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+gha-creds-*.json
+.firebase/
+*-debug.log
+test-results/
+.DS_Store
+public/pdfjs/
+.source-cache/
+__pycache__/
+*.pyc
